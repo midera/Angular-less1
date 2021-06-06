@@ -1,0 +1,9 @@
+.box {
+
+  display: flex;
+}
+
+.user-blocks {
+  padding: 15px;
+  width: 50%;
+}

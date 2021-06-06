@@ -1,0 +1,13 @@
+
+.box {
+  display: flex;
+}
+
+.post-blocks {
+  width: 50%;
+  padding: 15px;
+}
+
+.details {
+  width: 50%;
+}

@@ -1,6 +1,9 @@
-
-<h1>{{greeting}}</h1>
-<app-users>
-</app-users>
-<app-posts>
-</app-posts>
+<div>
+  <button>
+    <a [routerLink]="['users']">users</a>
+  </button>
+  <button>
+    <a [routerLink]="['posts']">posts</a>
+  </button>
+</div>
+<router-outlet></router-outlet>
